@@ -1,3 +1,5 @@
 DevOps connects developers and operations so teams can work together instead of in silos. With CI/CD, you're constantly testing and deploying code, which means you catch bugs faster and ship updates more reliably.  Updates that used to take weeks can happen in days or even hours.
 
-Learning DevOps makes you better at building software that's stable and efficient—skills that matter in any modern tech role. 
+Learning DevOps makes you better at building software that's stable and efficient—skills that matter in any modern tech role. DevOps connects developers and operations so teams can work together instead of in silos.
+With CI/CD, teams constantly test and deploy code, which helps catch bugs faster and deliver updates more reliably.
+Updates that used to take weeks can now happen in days or even hours.
