@@ -1,2 +1,2 @@
 COMP2156 is where you learn the DevOps tools and practices that actual tech teams use every day. You'll get hands-on with Git and GitHub—learning how to manage code, work with branches, and collaborate like developers do in the real world. Plus, you'll dive into CI/CD using GitHub Actions to automate testing and deployments.
-Basically, it's about understanding how teams ship software faster and more reliably. The skills you pick up here are exactly what employers look for in IT and software roles. This course also introduces CI/CD pipelines using GitHub Actions.
+It's about shipping software faster and more reliably—skills employers actually want. You'll also learn CI/CD pipelines using GitHub Actions.
