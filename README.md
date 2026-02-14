@@ -9,7 +9,7 @@
 
 \- Member: 101542181 - Vladyslav Ihumnov
 
-\- Member: <StudentID> - Lukas Sebastiao
+\- Member: 101553678 - Lukas Sebastiao
 
 
 \## Repository Purpose
