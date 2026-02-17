@@ -6,3 +6,5 @@ The course includes:
 - GitHub collaboration
 - Continuous Integration
 - Automation principles
+
+DevOps also improves team communication and system reliability.
