@@ -1,0 +1,9 @@
+George Brown College is a public college located in Toronto, Ontario, Canada.
+It offers diploma, advanced diploma, and degree programs across various disciplines.
+The college focuses on practical learning and industry partnerships.
+Students gain hands-on experience through labs, co-op programs, and applied research.
+
+3 main campuses of GB:
+- St. James Campus
+- Casa Loma Campus
+- Waterfront Campus

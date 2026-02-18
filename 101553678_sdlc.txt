@@ -1,0 +1,10 @@
+DevOps plays a critical role in the Software Development Life Cycle (SDLC).
+It improves collaboration between development and operations teams.
+
+DevOps enables:
+- Faster deployments
+- Continuous testing
+- Reduced manual errors
+
+Learning DevOps helps engineers understand automation, infrastructure, and deployment pipelines.
+It ensures efficient and reliable software delivery.
