@@ -22,6 +22,3 @@ Each member works on their own branch and contributes at least 10 commits and 3 
 \## CI
 
 GitHub Actions is used for basic CI checks.
-
-
-
