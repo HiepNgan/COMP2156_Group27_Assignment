@@ -1,0 +1,12 @@
+Git Branching Overwview
+
+Git branching allows developers to work on different features independently without affecting the main branch.
+
+Each team member in this project works on their own branch and later creates a pull request to merge changes into the main branch.
+
+Advantages of using branches:
+- Prevents conflicts
+- Keeps main branch stable
+- Allows parallel development
+
+After finishing work on a branch, always create a pull request to merge changes into the main branch after review. This ensures code quality and avoids conflicts.
