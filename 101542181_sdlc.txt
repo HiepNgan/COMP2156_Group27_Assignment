@@ -7,3 +7,5 @@ There are different SDLC models including:
 -DevOps Model
 
 The Waterfall model follows a sequential approach, while Agile focuses on interative development and collaboration.
+
+DevOps extends SDLC by integrating development and operations teams and emphasizing automation, continuous feedback, and faster delivery cycles.
